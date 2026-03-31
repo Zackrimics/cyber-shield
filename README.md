@@ -69,7 +69,7 @@ Screenshots are included in the `/proof` folder.
 
 ## 🎥 Demo Video
 
-Upload demo video to Google Drive and add link below:
+
 
 [Watch Demo](#)
 
