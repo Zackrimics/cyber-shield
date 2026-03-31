@@ -106,8 +106,8 @@ npm install
 # Run the project
 npm run dev
 
----
 ```
+---
 ## 🚀 Deployment
 
 The application is deployed using Firebase Hosting, enabling fast and reliable access over the web.
