@@ -62,8 +62,8 @@ Screenshots are included in the `/proof` folder.
 
 ## 🖼️ Screenshots
 
-- ![Screenshot1](screenshots/screen1.png)
-- ![Screenshot2](screenshots/screen2.png)
+- ![Screenshot1](media/screen1.png)
+- ![Screenshot2](media/screen2.png)
 
 ---
 
@@ -71,7 +71,7 @@ Screenshots are included in the `/proof` folder.
 
 
 
-[Watch Demo](#)
+[Watch Demo](media/video.mp4)
 
 ---
 
