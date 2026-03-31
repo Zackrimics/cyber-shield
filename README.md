@@ -54,9 +54,9 @@ Prompt engineering was used with:
 
 ## 📸 Proof of Google AI Usage
 
-Screenshots are included in the `/proof` folder.
+Screenshots are included in the `/media` folder.
 
-- ![AI Proof](proof/ai-proof.png)
+- ![AI Proof](media/)
 
 ---
 
@@ -79,10 +79,10 @@ Screenshots are included in the `/proof` folder.
 
 ```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone https://github.com/Zackrimics/cyber-shield.git 
 
 # Go to project folder
-cd project-name
+cd cyber-shield
 
 # Install dependencies
 npm install
