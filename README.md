@@ -71,7 +71,7 @@ Screenshots are included in the `/proof` folder.
 
 
 
-[Watch Demo](media/video.mp4)
+[Watch Demo](media/VID-20260331-WA0052.mp4)
 
 ---
 
