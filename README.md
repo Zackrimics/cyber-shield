@@ -62,8 +62,8 @@ Screenshots are included in the `/proof` folder.
 
 ## 🖼️ Screenshots
 
-- ![Screenshot1](media/screen1.png)
-- ![Screenshot2](media/screen2.png)
+- ![Screenshot1](media/IMG-20260331-WA0050.jpg )
+- ![Screenshot2](media/IMG-20260331-WA0051.jpg)
 
 ---
 
