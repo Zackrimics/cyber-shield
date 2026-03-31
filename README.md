@@ -2,19 +2,91 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 🛡️ AI Cyber Shield
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/fc436566-46af-4961-8487-91a9fc90cc82
+## 📌 Project Name
 
-## Run Locally
+AI Cyber Shield
 
-**Prerequisites:**  Node.js
+---
 
+## ❗ Problem Statement
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+With the rapid increase in phishing attacks, scams, and cybersecurity threats, everyday users struggle to identify malicious content. Existing tools are either too technical or fail to explain *why* something is dangerous, leading to poor user awareness and higher risk.
+
+---
+
+## 📖 Project Description
+
+AI Cyber Shield is an AI-powered cybersecurity platform that provides multiple security tools in one unified dashboard. It detects phishing and scams, analyzes threats, and simulates cybersecurity tools while explaining risks in simple, user-friendly language.
+
+The platform includes multiple modules such as phishing detection, vulnerability scanning, OSINT analysis, and more — all powered by Google Gemini.
+
+---
+
+## 🤖 Google AI Usage
+
+### 🔧 Tools / Models Used
+- Google Gemini (via AI Studio)
+- Firebase Hosting
+- React / TSX frontend
+
+---
+
+### 🧠 How Google AI Was Used
+
+Google Gemini is used as the core intelligence engine to:
+
+- Analyze phishing and scam messages  
+- Detect attack patterns and intent  
+- Simulate cybersecurity tools (SQLi, XSS, etc.)  
+- Provide human-readable explanations  
+- Classify risks and suggest actions  
+
+Prompt engineering was used with:
+- Role-based instructions (cybersecurity expert)
+- Structured outputs
+- Context-aware analysis
+
+---
+
+## 📸 Proof of Google AI Usage
+
+Screenshots are included in the `/proof` folder.
+
+- ![AI Proof](proof/ai-proof.png)
+
+---
+
+## 🖼️ Screenshots
+
+- ![Screenshot1](screenshots/screen1.png)
+- ![Screenshot2](screenshots/screen2.png)
+
+---
+
+## 🎥 Demo Video
+
+Upload demo video to Google Drive and add link below:
+
+[Watch Demo](#)
+
+---
+
+## ⚙️ Installation Steps
+
+```bash
+# Clone the repository
+git clone <your-repo-link>
+
+# Go to project folder
+cd project-name
+
+# Install dependencies
+npm install
+
+# Run the project
+npm run dev
+
