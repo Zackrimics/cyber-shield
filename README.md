@@ -19,6 +19,29 @@ The platform includes multiple modules such as phishing detection, vulnerability
 
 ---
 
+## 🧩 Features
+
+- 🔐 Phishing & Scam Detection with AI-based analysis  
+- 📧 Email Breach Checker *(AI-simulated)*  
+- 🕵️ Username OSINT Analysis  
+- 🌐 Port Scanner *(simulated insights)*  
+- 💉 SQL Injection Vulnerability Scanner  
+- ⚠️ XSS Vulnerability Detection  
+- 🦠 Malware File Hash Analysis  
+- 🔓 Brute Force Attack Simulator  
+- 🔑 Hash Type Identifier  
+- 📡 Man-in-the-Middle (MITM) Detection  
+- 🧠 AI-powered explanations with risk levels and recommendations  
+
+---
+
+## 👨‍💻 Team
+
+- **Shibil Anshad**  
+- **ADILu**  
+
+---
+
 ## 🤖 Google AI Usage
 
 ### 🔧 Tools / Models Used
@@ -83,3 +106,23 @@ npm install
 # Run the project
 npm run dev
 
+---
+
+## 🚀 Deployment
+
+The application is deployed using Firebase Hosting, enabling fast and reliable access over the web.
+
+### 🔧 Deployment Steps
+
+```bash
+# Build the production-ready app
+npm run build
+
+# Deploy to Firebase Hosting
+firebase deploy
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
